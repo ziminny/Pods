@@ -3,8 +3,8 @@ Pod::Spec.new do |s|
     s.version               = '0.0.1'
     s.summary               = 'Managment core data'
     s.swift_version         = '5.0'
-    s.description           = <<-DESC "Encrypt model core data
-   This package encrypt core data to model
+    s.description           = <<-DESC "Encrypt model core data model"
+    This package encrypt core data to model
     DESC
     s.homepage              = 'https://github.com/ziminny/PasseiCoreData'
     s.license               = { :type => 'PASSEI-GROUP', :file => 'LICENSE' }
